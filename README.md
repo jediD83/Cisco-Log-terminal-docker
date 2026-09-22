@@ -52,7 +52,7 @@ sudo docker run -d -p 8501:8501 --name cisco-analyzer cisco-log-app
 ### 3. Access the App
 Open your browser and navigate to: http://localhost:8501
 
-### 🛡️ Troubleshooting & Maintenance
+## 🛡️ Troubleshooting & Maintenance
 Open Firewall Port
 If you cannot access the dashboard from another machine, open port 8501:
 
