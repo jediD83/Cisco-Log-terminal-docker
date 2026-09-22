@@ -1,5 +1,5 @@
 # Cisco-Log-terminal-docker
-This is the old huggingface's Cisco Network Log Analyzer. Now to run python in terminal and docker.
+This is the old huggingface's Cisco Network Log Analyzer. Now to run ~~python~~ streamlit in terminal and docker.
 
 ## 🚀 Overview
 This tool extracts critical data from Cisco `.txt` log files, including:
