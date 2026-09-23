@@ -71,10 +71,3 @@ If the app fails to start in Docker, check the logs:
 ```
 sudo docker logs cisco-analyzer
 ```
-
-### 📦 Requirements
-streamlit
-
-pandas
-
-openpyxl
