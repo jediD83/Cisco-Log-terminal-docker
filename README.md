@@ -74,5 +74,7 @@ sudo docker logs cisco-analyzer
 
 ### 📦 Requirements
 streamlit
+
 pandas
+
 openpyxl
