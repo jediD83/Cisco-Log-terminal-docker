@@ -9,9 +9,9 @@ It features a built-in **Export to Excel** button and a **TSV Copy** function fo
 
 ---
 
-## 🛠 Manual Installation (Python Terminal)
+## 🛠 Manual Installation (Terminal)
 
-Use this method to run the app directly on your Ubuntu system.
+Use this python method to run the app directly on your Ubuntu system.
 
 ### 1. Update and Install Pip
 ```
